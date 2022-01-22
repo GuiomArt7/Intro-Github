@@ -6,4 +6,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 Ya tengo otro cambio!
 
-<img img/github-logo.png>
+*** Insertar imagen
+
+![hack](img/github-logo.png)
