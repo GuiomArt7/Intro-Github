@@ -6,4 +6,4 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 Ya tengo otro cambio!
 
-<img /github-logo.png>
+<img github-logo.png>
