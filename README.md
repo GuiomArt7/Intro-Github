@@ -9,3 +9,9 @@ Ya tengo otro cambio!
 *** Insertar imagen
 
 ![hack](img/github-logo.png)
+
+Instalar Git
+GitHub proporciona clientes de escritorio que incluyen una interfaz gráfica de usuario para las acciones más comunes que se pueden realizar en un repositorio y una edición de Git en la línea de comandos actualizada automáticamente para escenarios más avanzados.
+
+GitHub para Windows
+windows.github.com
